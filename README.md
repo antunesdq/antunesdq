@@ -7,7 +7,7 @@ class SoftwareEngineer():
     def __init__(self):
         self.Name = "Matt"
         self.Location = "Brazil"
-        self.languages = ["Portuguese - BR", "English - US"]
+        self.Languages = ["Portuguese - BR", "English - US"]
         self.Company = "Scania"
         self.Age = 24
         self.Interests = {
