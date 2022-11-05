@@ -7,9 +7,9 @@ class SoftwareEngineer():
     def __init__(self):
         self.Name = "Matt"
         self.Location = "Sweden"
-        self.Languages = ["Portuguese - BR", "English - US"]
+        self.Languages = ["Portuguese - BR", "English - US", "Swedish"]
         self.Company = "Scania"
-        self.Age = 24
+        self.Age = 26
         self.Interests = {
             "Games":["FPS", "RTS", "RPG", "CardGames"],
             "Books":["Sci-Fi", "Fantasy", "Horror"],
