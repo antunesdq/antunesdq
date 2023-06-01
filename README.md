@@ -30,7 +30,7 @@ ___
 
 <div align="center">
     <body>
-        <a href="https://codepen.io/antunesdq/">
+        <a href="https://www.credly.com/badges/9040f120-8699-427d-998f-7aefa9d3e36d/public_url">
             <img src="aws-certified-cloud-practitioner.png" alt="drawing" width="150"/>
         </a>
     </body>
