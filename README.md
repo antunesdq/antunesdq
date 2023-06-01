@@ -41,7 +41,7 @@ ___
 </div>
 <br>
 <br>
-<div align="right">
+<div align="center">
     <body>
         <a href="https://www.instagram.com/antunesdq/">
             <img src="instagram.png" alt="drawing" width="35" style="margin: 0px 30px 0px 0px"/>
@@ -78,4 +78,6 @@ ___
             <img src="codepen.png" alt="drawing" width="35"/>
         </a>
     </body>
+    
 </div>
+<div><div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="9040f120-8699-427d-998f-7aefa9d3e36d" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script></div>
