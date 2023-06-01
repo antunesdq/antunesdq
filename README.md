@@ -27,6 +27,14 @@ me.say_hi()
 
 ```
 ___
+
+<div align="center">
+    <body>
+        <a href="https://codepen.io/antunesdq/">
+            <img src="aws-certified-cloud-practitioner.png" alt="drawing" width="150"/>
+        </a>
+    </body>
+</div>
 <div align="center">
     <br>
   <img src="https://img.shields.io/badge/-Python-000000?logo=python&logoColor=3776AB" style="margin: 0px 10px 0px 0px">
@@ -78,6 +86,3 @@ ___
             <img src="codepen.png" alt="drawing" width="35"/>
         </a>
     </body>
-    
-</div>
-<div><div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="9040f120-8699-427d-998f-7aefa9d3e36d" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script></div>
