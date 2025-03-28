@@ -31,7 +31,6 @@ ___
 <div align="center">
     <body>
         <a href="https://www.credly.com/badges/9040f120-8699-427d-998f-7aefa9d3e36d/public_url">
-            <img src="aws-certified-cloud-practitioner.png" alt="drawing" width="150"/>
         </a>
     </body>
 </div>
@@ -51,16 +50,6 @@ ___
 <br>
 <div align="center">
     <body>
-        <a href="https://www.instagram.com/antunesdq/">
-            <img src="instagram.png" alt="drawing" width="35" style="margin: 0px 30px 0px 0px"/>
-        </a>
-    </body>
-    <body>
-        <a href="https://discordapp.com/users/231609189112348683/">
-            <img src="discord.png" alt="drawing" width="35" style="margin: 0px 30px 0px 0px"/>
-        </a>
-    </body>
-    <body>
         <a href="https://www.linkedin.com/in/antunesdq/">
             <img src="linkedin.png" alt="drawing" width="35" style="margin: 0px 30px 0px 0px"/>
         </a>
@@ -71,18 +60,4 @@ ___
             <img src="gmail.png" alt="drawing" width="35" style="margin: 0px 30px 0px 0px"/>
         </a>
     </body>
-    <body>
-        <a href="https://www.reddit.com/user/antunesdq/">
-            <img src="reddit.png" alt="drawing" width="35" style="margin: 0px 30px 0px 0px"/>
-        </a>
-    </body>
-    <body>
-        <a href="https://dev.to/antunesdq/">
-            <img src="dev.png" alt="drawing" width="35" style="margin: 0px 30px 0px 0px"/>
-        </a>
-    </body>
-    <body>
-        <a href="https://codepen.io/antunesdq/">
-            <img src="codepen.png" alt="drawing" width="35"/>
-        </a>
-    </body>
+
